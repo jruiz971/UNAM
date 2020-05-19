@@ -1,0 +1,400 @@
+Pelicula: 1
+Titulo: LA MASCARA: CERO A HEROE
+Genero: COMEDIA
+Año: 1994
+Duracion: 101
+Productora: NEW LINE CINEMA
+Director: CHUCK RUSSELL
+
+Pelicula: 2
+Titulo: 21 BLACKJACK
+Genero: DRAMA
+Año: 2008
+Duracion: 123
+Productora: RELATIVITY MEDIA
+Director: ROBERT LUKETIC
+
+Pelicula: 3
+Titulo: TIEMPOS MODERNOS
+Genero: COMEDIA
+Año: 1935
+Duracion: 83
+Productora: CHARLES CHAPLIN PRODUCTIONS
+Director: CHARLES CHAPLIN
+
+Pelicula: 4
+Titulo: MULHOLLAND DRIVE
+Genero: DRAMA
+Año: 2001
+Duracion: 147
+Productora: UNIVERSAL PICTURES
+Director: DAVID LYNCH
+
+Pelicula: 5
+Titulo: ACE VENTURA
+Genero: COMEDIA
+Año: 1994
+Duracion: 86
+Productora: MORGAN CREEK PRODUCTION
+Director: TOM SHADYAC
+
+Pelicula: 6
+Titulo: SINIESTRO
+Genero: TERROR
+Año: 2012
+Duracion: 110
+Productora: ALLIANCE FILMS
+Director: SCOTT DERRICKSON
+
+Pelicula: 7
+Titulo: RAPIDOS Y FURIOSOS
+Genero: ACCION
+Año: 2017
+Duracion: 136
+Productora: UNIVERSAL ESTUDIOS
+Director: F. GARY GRAY
+
+Pelicula: 8
+Titulo: LA NOCHE DE LOS MUERTOS VIVIENTES
+Genero: TERROR
+Año: 1968
+Duracion: 97
+Productora: IMAGE TEN
+Director: GEORGE A. ROMERO
+
+Pelicula: 9
+Titulo: SANTO Y BLUE DEMON
+Genero: ACCION
+Año: 1969
+Duracion: 85
+Productora: TELEVISA
+Director: GILBERTO MARTÍNEZ SOLARES
+
+Pelicula: 10
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 11
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 12
+Titulo: BLACK PANTHER
+Genero: CINE DE SUPERHÉROES
+Año: 2018
+Duracion: 134
+Productora: MARVEL STUDIOS
+Director: RYAN COOGLER
+
+Pelicula: 13
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 14
+Titulo: MUJER MARAVILLA
+Genero: CIENCIA FICCIÓN
+Año: 2017
+Duracion: 149
+Productora: DC FILMS
+Director: PATTY JENKINS
+
+Pelicula: 15
+Titulo: LA RED
+Genero: SUSPENSO
+Año: 1995
+Duracion: 115
+Productora: COLUMBIA PICTURES
+Director: IRWIN  WINKLER
+
+Pelicula: 16
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 17
+Titulo: WHIPLASH
+Genero: DRAMA
+Año: 2014
+Duracion: 107
+Productora: BLUMHOUSE PRODUCTIONS
+Director: DAMIEN CHAZELLE
+
+Pelicula: 18
+Titulo: LA NOCHE DE LAS BESTIAS
+Genero: CIENCIA FICCION
+Año: 2013
+Duracion: 85
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JAMES DEMONACO
+
+Pelicula: 19
+Titulo: ROMA
+Genero: DRAMA
+Año: 2018
+Duracion: 135
+Productora: PARTICIPANT MEDIA
+Director: ALFONSO CUARÓN
+
+Pelicula: 20
+Titulo: HALLOWEEN
+Genero: TERROR
+Año: 2018
+Duracion: 104
+Productora: BLUMHOUSE PRODUCTIONS
+Director: DAVID GORDON GREEN
+
+Pelicula: 21
+Titulo: WHIPLASH
+Genero: DRAMA
+Año: 2014
+Duracion: 107
+Productora: BLUMHOUSE PRODUCTIONS
+Director: DAMIEN CHAZELLE
+
+Pelicula: 22
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 23
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 24
+Titulo: LA NOCHE DE LOS MUERTOS VIVIENTES
+Genero: TERROR
+Año: 1968
+Duracion: 97
+Productora: IMAGE TEN
+Director: GEORGE A. ROMERO
+
+Pelicula: 25
+Titulo: MENTE INDOMABLE
+Genero: DRAMA
+Año: 1997
+Duracion: 126
+Productora: MIRAMAX
+Director: GUS VAN SANT
+
+Pelicula: 26
+Titulo: BATTLESHIP
+Genero: ACCIÓN
+Año: 2012
+Duracion: 131
+Productora: UNIVERSAL STUDIOS
+Director: PETER BERG
+
+Pelicula: 27
+Titulo: ACE VENTURA
+Genero: COMEDIA
+Año: 1994
+Duracion: 86
+Productora: MORGAN CREEK PRODUCTION
+Director: TOM SHADYAC
+
+Pelicula: 28
+Titulo: EL NIÑO CON LA PIJAMA DE RAYAS
+Genero: DRAMA
+Año: 2008
+Duracion: 94
+Productora: HEYDAY FILMS
+Director: MARK HERMAN
+
+Pelicula: 29
+Titulo: NACHO LIBRE
+Genero: COMEDIA
+Año: 2006
+Duracion: 92
+Productora: PARAMOUNT PICTURES
+Director: JARED HESS
+
+Pelicula: 30
+Titulo: PANDORA
+Genero: CIENCIA FICCION
+Año: 2016
+Duracion: 136
+Productora: KIM CHUL-YONG
+Director: PARK JUNG-WOO
+
+Pelicula: 31
+Titulo: PANDORA
+Genero: CIENCIA FICCION
+Año: 2016
+Duracion: 136
+Productora: KIM CHUL-YONG
+Director: PARK JUNG-WOO
+
+Pelicula: 32
+Titulo: LA TEORIA DEL TODO
+Genero: DRAMA
+Año: 2014
+Duracion: 123
+Productora: WORKING TITLE FILMS
+Director: JAMES MARSH
+
+Pelicula: 33
+Titulo: AQUAMAN
+Genero: CIENCIA FICCION
+Año: 2018
+Duracion: 143
+Productora: DC FILMS
+Director: PETER SAFRAN
+
+Pelicula: 34
+Titulo: ROMA
+Genero: DRAMA
+Año: 2018
+Duracion: 135
+Productora: PARTICIPANT MEDIA
+Director: ALFONSO CUARÓN
+
+Pelicula: 35
+Titulo: GRAVITY
+Genero: DRAMA
+Año: 2013
+Duracion: 91
+Productora: ESPERANTO FILMOJ
+Director: ALFONSO CUARON
+
+Pelicula: 36
+Titulo: TIEMPOS MODERNOS
+Genero: COMEDIA
+Año: 1935
+Duracion: 83
+Productora: CHARLES CHAPLIN PRODUCTIONS
+Director: CHARLES CHAPLIN
+
+Pelicula: 37
+Titulo: LA MONJA
+Genero: TERROR
+Año: 2018
+Duracion: 96
+Productora: WARNER
+Director:  JAMES WAN 
+
+Pelicula: 38
+Titulo: EL DEPREDADOR
+Genero: ACCION
+Año: 2018
+Duracion: 95
+Productora: DAVIS ENTERTAINMENT
+Director: JOHN MC TIERNAN
+
+Pelicula: 39
+Titulo: VIERNES 13
+Genero: TERROR
+Año: 1980
+Duracion: 88
+Productora: GEORGETOWN PRODUCTIONS INC
+Director: SEAN S. CUNNINGMAH
+
+Pelicula: 40
+Titulo: SINIESTRO
+Genero: TERROR
+Año: 2012
+Duracion: 110
+Productora: ALLIANCE FILMS
+Director: SCOTT DERRICKSON
+
+Pelicula: 41
+Titulo: LA RED
+Genero: SUSPENSO
+Año: 1995
+Duracion: 115
+Productora: COLUMBIA PICTURES
+Director: IRWIN  WINKLER
+
+Pelicula: 42
+Titulo: ANNABELLE
+Genero: TERROR
+Año: 2014
+Duracion: 109
+Productora: WARNER
+Director: JOHN R. LEONETTI
+
+Pelicula: 43
+Titulo: VIERNES 13
+Genero: TERROR
+Año: 1980
+Duracion: 88
+Productora: GEORGETOWN PRODUCTIONS INC
+Director: SEAN S. CUNNINGMAH
+
+Pelicula: 44
+Titulo: SCARY MOVIE
+Genero: COMEDIA
+Año: 2000
+Duracion: 88
+Productora: WAYANS BROS ENTERTAINMENT
+Director: KEENEN WAYANS
+
+Pelicula: 45
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 46
+Titulo: EL CONJURO
+Genero: TERROR
+Año: 2013
+Duracion: 112
+Productora: WARNER
+Director:  JAMES WAN 
+
+Pelicula: 47
+Titulo: MUJER MARAVILLA
+Genero: CIENCIA FICCIÓN
+Año: 2017
+Duracion: 149
+Productora: DC FILMS
+Director: PATTY JENKINS
+
+Pelicula: 48
+Titulo: LOGAN
+Genero: DRAMA CIENCIA FICCIÓN
+Año: 2017
+Duracion: 141
+Productora: TSG ENTERTAINMENT
+Director: JAMES MANGOLD
+
+Pelicula: 49
+Titulo: MULHOLLAND DRIVE
+Genero: DRAMA
+Año: 2001
+Duracion: 147
+Productora: UNIVERSAL PICTURES
+Director: DAVID LYNCH
+
+Pelicula: 50
+Titulo: DUNKERQUE
+Genero: DRAMA SUSPENSO
+Año: 2017
+Duracion: 106
+Productora: SYNCOPY INC
+Director: CHRISTOPHER NOLAN
+
