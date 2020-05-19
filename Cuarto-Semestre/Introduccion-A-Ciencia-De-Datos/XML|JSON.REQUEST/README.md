@@ -1,16 +1,16 @@
-Juan Luis Ruiz Vanegas
-email: juanluisruiz971@gmail.com
+Author: *Juan Luis Ruiz Vanegas*
+email: *juanluisruiz971@gmail.com*
 
 #------- Descripcion -------# 
 Los datos de los que vamos a hacer las peticiones json y xml se encuentran en la pagina 
 
-xml -> http://interaksys.com.mx/curso/peliculas.php?type=xml
+xml -> http://interaksys.com.mx/curso/peliculas.php?type=xml;
 json -> http://interaksys.com.mx/curso/peliculas.php?type=json
 
 Las listas de peliculas son mostradsa de diez elementos.
 
 Los datos de las peliculas son procesados y exportados a en un archivo .txt y se van a mostrar de la siguiente manera: 
-
+´´´
 Pelicula: 1
 Titulo: IN-ACTIVIDAD PARNORMAL
 Genero: COMEDIA
@@ -18,7 +18,7 @@ Año: 2014
 Duracion: 86
 Productora: WAYANS BROS ENTERTAINMENT
 Director: MICHAEL TIDDES
-
+´´´
 #------- Requerimientos -------#
 
 Es necesario usar python3; asi como sus librerias:
