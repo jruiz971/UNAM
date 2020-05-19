@@ -1,0 +1,400 @@
+Pelicula: 1
+Titulo: TERMINATOR
+Genero: ACCION
+Año: 1984
+Duracion: 120
+Productora: ORION PICTURES
+Director: JAMES CAMERON
+
+Pelicula: 2
+Titulo: SPLIT
+Genero: TERROR PSICOLOGICO
+Año: 2016
+Duracion: 116
+Productora: MARC BIENSTOCK
+Director: M. NIGHT SHYAMALAN
+
+Pelicula: 3
+Titulo: CAPITANA MARVEL
+Genero: ACCIÓN
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: ANNA BODEN Y RYAN FLECK
+
+Pelicula: 4
+Titulo: DEADPOOL
+Genero: ACCION
+Año: 2016
+Duracion: 146
+Productora: MARVEL
+Director: TIM MILLER
+
+Pelicula: 5
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 6
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 7
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 8
+Titulo: CAPITANA MARVEL
+Genero: CIENCIA FICCION
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: KEVIN FEIGE
+
+Pelicula: 9
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 10
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 11
+Titulo: TERMINATOR
+Genero: ACCION
+Año: 1984
+Duracion: 120
+Productora: ORION PICTURES
+Director: JAMES CAMERON
+
+Pelicula: 12
+Titulo: SPLIT
+Genero: TERROR PSICOLOGICO
+Año: 2016
+Duracion: 116
+Productora: MARC BIENSTOCK
+Director: M. NIGHT SHYAMALAN
+
+Pelicula: 13
+Titulo: CAPITANA MARVEL
+Genero: ACCIÓN
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: ANNA BODEN Y RYAN FLECK
+
+Pelicula: 14
+Titulo: DEADPOOL
+Genero: ACCION
+Año: 2016
+Duracion: 146
+Productora: MARVEL
+Director: TIM MILLER
+
+Pelicula: 15
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 16
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 17
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 18
+Titulo: CAPITANA MARVEL
+Genero: CIENCIA FICCION
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: KEVIN FEIGE
+
+Pelicula: 19
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 20
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 21
+Titulo: TERMINATOR
+Genero: ACCION
+Año: 1984
+Duracion: 120
+Productora: ORION PICTURES
+Director: JAMES CAMERON
+
+Pelicula: 22
+Titulo: SPLIT
+Genero: TERROR PSICOLOGICO
+Año: 2016
+Duracion: 116
+Productora: MARC BIENSTOCK
+Director: M. NIGHT SHYAMALAN
+
+Pelicula: 23
+Titulo: CAPITANA MARVEL
+Genero: ACCIÓN
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: ANNA BODEN Y RYAN FLECK
+
+Pelicula: 24
+Titulo: DEADPOOL
+Genero: ACCION
+Año: 2016
+Duracion: 146
+Productora: MARVEL
+Director: TIM MILLER
+
+Pelicula: 25
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 26
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 27
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 28
+Titulo: CAPITANA MARVEL
+Genero: CIENCIA FICCION
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: KEVIN FEIGE
+
+Pelicula: 29
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 30
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 31
+Titulo: TERMINATOR
+Genero: ACCION
+Año: 1984
+Duracion: 120
+Productora: ORION PICTURES
+Director: JAMES CAMERON
+
+Pelicula: 32
+Titulo: SPLIT
+Genero: TERROR PSICOLOGICO
+Año: 2016
+Duracion: 116
+Productora: MARC BIENSTOCK
+Director: M. NIGHT SHYAMALAN
+
+Pelicula: 33
+Titulo: CAPITANA MARVEL
+Genero: ACCIÓN
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: ANNA BODEN Y RYAN FLECK
+
+Pelicula: 34
+Titulo: DEADPOOL
+Genero: ACCION
+Año: 2016
+Duracion: 146
+Productora: MARVEL
+Director: TIM MILLER
+
+Pelicula: 35
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 36
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 37
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 38
+Titulo: CAPITANA MARVEL
+Genero: CIENCIA FICCION
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: KEVIN FEIGE
+
+Pelicula: 39
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 40
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
+Pelicula: 41
+Titulo: TERMINATOR
+Genero: ACCION
+Año: 1984
+Duracion: 120
+Productora: ORION PICTURES
+Director: JAMES CAMERON
+
+Pelicula: 42
+Titulo: SPLIT
+Genero: TERROR PSICOLOGICO
+Año: 2016
+Duracion: 116
+Productora: MARC BIENSTOCK
+Director: M. NIGHT SHYAMALAN
+
+Pelicula: 43
+Titulo: CAPITANA MARVEL
+Genero: ACCIÓN
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: ANNA BODEN Y RYAN FLECK
+
+Pelicula: 44
+Titulo: DEADPOOL
+Genero: ACCION
+Año: 2016
+Duracion: 146
+Productora: MARVEL
+Director: TIM MILLER
+
+Pelicula: 45
+Titulo: LA ERA DE HIELO
+Genero: ANIMACION
+Año: 2002
+Duracion: 81
+Productora: 20 CENTURY FOX
+Director: CHRIS WEDGE Y CARLOS SALDANHA
+
+Pelicula: 46
+Titulo: HARRY POTTER Y EL PRISIONERO DE AZKABAN
+Genero: FANTASIA
+Año: 2004
+Duracion: 142
+Productora: HEYDAY FILMS
+Director: ALFONSO CUARON
+
+Pelicula: 47
+Titulo: BIRDMAN
+Genero: DRAMA
+Año: 2014
+Duracion: 119
+Productora: REGENCY ENTERPRISES
+Director: ALEJANDRO G. IÑARRITU
+
+Pelicula: 48
+Titulo: CAPITANA MARVEL
+Genero: CIENCIA FICCION
+Año: 2019
+Duracion: 124
+Productora: MARVEL STUDIOS
+Director: KEVIN FEIGE
+
+Pelicula: 49
+Titulo: LA SALIDA DE LA FABRICA
+Genero: DOCUMENTAL
+Año: 1895
+Duracion: 1
+Productora: HERMANOS LUMIERE
+Director: LOUIS LUMIERE
+
+Pelicula: 50
+Titulo: ¡GET OUT!
+Genero: MISTERIO SUSPENSO
+Año: 2017
+Duracion: 144
+Productora: BLUMHOUSE PRODUCTIONS
+Director: JORDAN PEELE
+
